@@ -34,35 +34,6 @@ On the Start screen, click the Internet Explorer tile
 
 
 
-
-### Create Microsoft Account at http://login.live.com
-If you have not done so already, create a Microsoft Account especially for these class labs at http://login.live.com by clicking "Create One!". For instance, in the screenshots we will be using begler42@outlook.com. This is highly recommended so that your lab work can be on a separate Azure Subscription.
-
-#### :bulb: KNOWLEDGE
-If you see a pop-up for Skype for Business click Don't Enable.
-
-#### :camera: SCREENSHOT
->LODSProperties
->* Uri = screens/626850.jpg
-
-
-
-
-
-### Redeem your Azure Free Pass
-If you have not done so already, redeem your Azure Free Pass at http://www.microsoftazurepass.com .  It will be associated with the Microsoft Account you created earlier especially for the class. Be patient, some of the steps may take a few minutes.
-
-#### :bulb: KNOWLEDGE
-This is highly recommended so that your lab work can be on a separate Azure Subscription.
-
-#### :camera: SCREENSHOT
->LODSProperties
->* Uri = screens/626860.jpg
-
-
-
-
-
 ### Go to the new Azure Portal
 Go to https://portal.azure.com. Enter the email address of your Microsoft account associated with your Azure subscription. Then enter the password for your Microsoft account. Check Keep me signed in. Click Sign In.
 
@@ -163,8 +134,8 @@ Account **&#35;&#52;&#55;&#57;** is managed by the **``IT** department.``.
 ```
 
 
-### Click the Update button.
-Erase the Title and Subtitle fields on the form. Click the Update button.
+### Click the Done button.
+Erase the Title and Subtitle fields on the form. Click the Done button.
 
 #### :camera: SCREENSHOT
 >LODSProperties
